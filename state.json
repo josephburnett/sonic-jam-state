@@ -87,7 +87,7 @@
         "type": "grid",
         "beats": [
           [
-            1
+            0
           ]
         ],
         "params": {
@@ -100,6 +100,24 @@
         "sample-params": {
         },
         "id": "tsswhjxvoiqqrkoltfgawxaghbrcqbgf"
+      },
+      {
+        "type": "grid",
+        "beats": [
+          [
+            1
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ],
+        "synth-params": {
+        },
+        "sample-params": {
+        },
+        "id": "zblrdwmvpjamllwjpzcgyanylclchqvy"
       }
     ]
   },
@@ -472,6 +490,57 @@
           }
         ],
         "sample": "bd_haus"
+      }
+    ]
+  },
+  "zblrdwmvpjamllwjpzcgyanylclchqvy": {
+    "name": "",
+    "id": "zblrdwmvpjamllwjpzcgyanylclchqvy",
+    "bpc": "0.5",
+    "tracks": [
+      {
+        "type": "synth",
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+          "release": "0.1",
+          "res": "0.9",
+          "pulse_width": "0.8",
+          "sustain": "0.4",
+          "amp": "0.5",
+          "attack": "0.05",
+          "decay": "0.1",
+          "wave": "1",
+          "pitch": "-12"
+        },
+        "fx": [
+
+        ],
+        "synth": "tb303"
       }
     ]
   }
