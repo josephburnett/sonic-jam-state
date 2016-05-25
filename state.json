@@ -4,7 +4,106 @@
     "id": "root",
     "bpc": 1,
     "tracks": [
+      {
+        "type": "grid",
+        "beats": [
+          [
+            1
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
 
+        ],
+        "synth-params": {
+        },
+        "sample-params": {
+        },
+        "id": "fgbrpsveucakctdseeehzynresnocmde"
+      }
+    ]
+  },
+  "fgbrpsveucakctdseeehzynresnocmde": {
+    "name": "",
+    "id": "fgbrpsveucakctdseeehzynresnocmde",
+    "bpc": 1,
+    "tracks": [
+      {
+        "type": "grid",
+        "beats": [
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ],
+        "synth-params": {
+        },
+        "sample-params": {
+        },
+        "id": "nfangdfjsutgjzqvgosuvhekebtmmkcj"
+      }
+    ]
+  },
+  "nfangdfjsutgjzqvgosuvhekebtmmkcj": {
+    "name": "",
+    "id": "nfangdfjsutgjzqvgosuvhekebtmmkcj",
+    "bpc": "0.25",
+    "tracks": [
+      {
+        "type": "sample",
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+          "decay": "0.3",
+          "sustain": "0.5",
+          "rate": "0.5"
+        },
+        "fx": [
+          {
+            "fx": "distortion",
+            "params": {
+              "amp": "0.3",
+              "distort": "0.9"
+            }
+          },
+          {
+            "fx": "bitcrusher",
+            "params": {
+              "bits": "7"
+            }
+          }
+        ],
+        "sample": "drum_heavy_kick"
+      }
     ]
   }
 }
