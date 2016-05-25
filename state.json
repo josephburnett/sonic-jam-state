@@ -8,7 +8,7 @@
         "type": "grid",
         "beats": [
           [
-            1
+            0
           ]
         ],
         "params": {
@@ -46,6 +46,60 @@
         "sample-params": {
         },
         "id": "nfangdfjsutgjzqvgosuvhekebtmmkcj"
+      },
+      {
+        "fx": [
+          {
+            "fx": "bitcrusher",
+            "params": {
+              "bits": "4",
+              "mix": "1"
+            }
+          },
+          {
+            "fx": "distortion",
+            "params": {
+              "distort": "0.8",
+              "amp": "0.7"
+            }
+          }
+        ],
+        "params": {
+        },
+        "beats": [
+          [
+            0
+          ]
+        ],
+        "sample-params": {
+        },
+        "id": "xojuacfxtwaekwvdzlhxsriazukhbtqj",
+        "synth-params": {
+          "pitch": "\\ index",
+          "detune": "0.3",
+          "amp": "0.2"
+        },
+        "grid-type": "synth",
+        "type": "grid",
+        "grid-synth": "dpulse"
+      },
+      {
+        "type": "grid",
+        "beats": [
+          [
+            1
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ],
+        "synth-params": {
+        },
+        "sample-params": {
+        },
+        "id": "tsswhjxvoiqqrkoltfgawxaghbrcqbgf"
       }
     ]
   },
@@ -103,6 +157,321 @@
           }
         ],
         "sample": "drum_heavy_kick"
+      }
+    ]
+  },
+  "xojuacfxtwaekwvdzlhxsriazukhbtqj": {
+    "name": "",
+    "id": "xojuacfxtwaekwvdzlhxsriazukhbtqj",
+    "bpc": "0.25",
+    "tracks": [
+      {
+        "type": "none",
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      }
+    ]
+  },
+  "tsswhjxvoiqqrkoltfgawxaghbrcqbgf": {
+    "name": "",
+    "id": "tsswhjxvoiqqrkoltfgawxaghbrcqbgf",
+    "bpc": "0.25",
+    "tracks": [
+      {
+        "type": "sample",
+        "beats": [
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+          "amp": "2",
+          "pitch": "0",
+          "rate": "0.7",
+          "attack": "0.03",
+          "sustain": "1"
+        },
+        "fx": [
+          {
+            "fx": "flanger",
+            "params": {
+              "depth": "9"
+            }
+          }
+        ],
+        "sample": "bd_haus"
       }
     ]
   }
