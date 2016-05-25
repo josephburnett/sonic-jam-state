@@ -102,22 +102,32 @@
         "id": "tsswhjxvoiqqrkoltfgawxaghbrcqbgf"
       },
       {
-        "type": "grid",
+        "fx": [
+
+        ],
+        "params": {
+        },
         "beats": [
           [
             1
           ]
         ],
-        "params": {
-        },
-        "fx": [
-
-        ],
-        "synth-params": {
-        },
         "sample-params": {
         },
-        "id": "zblrdwmvpjamllwjpzcgyanylclchqvy"
+        "id": "zblrdwmvpjamllwjpzcgyanylclchqvy",
+        "synth-params": {
+          "pitch": "\\ index - 12",
+          "wave": "1",
+          "pulse_width": "0.8",
+          "attack": "0.05",
+          "decay": "0.1",
+          "sustain": "0.5",
+          "release": "0.1",
+          "amp": "0.5"
+        },
+        "grid-type": "synth",
+        "type": "grid",
+        "grid-synth": "tb303"
       }
     ]
   },
@@ -496,13 +506,16 @@
   "zblrdwmvpjamllwjpzcgyanylclchqvy": {
     "name": "",
     "id": "zblrdwmvpjamllwjpzcgyanylclchqvy",
-    "bpc": "0.5",
+    "bpc": "1",
     "tracks": [
       {
         "type": "synth",
         "beats": [
           [
-            1
+            0
+          ],
+          [
+            0
           ],
           [
             0
@@ -512,9 +525,6 @@
           ],
           [
             1
-          ],
-          [
-            0
           ],
           [
             0
@@ -527,20 +537,249 @@
           ]
         ],
         "params": {
-          "release": "0.1",
-          "res": "0.9",
-          "pulse_width": "0.8",
-          "sustain": "0.4",
-          "amp": "0.5",
-          "attack": "0.05",
-          "decay": "0.1",
-          "wave": "1",
-          "pitch": "-12"
+          "sustain": "1.5"
         },
         "fx": [
 
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
         ],
-        "synth": "tb303"
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
       }
     ]
   }
