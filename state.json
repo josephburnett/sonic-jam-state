@@ -109,7 +109,7 @@
         },
         "beats": [
           [
-            1
+            0
           ]
         ],
         "sample-params": {
@@ -128,6 +128,39 @@
         "grid-type": "synth",
         "type": "grid",
         "grid-synth": "tb303"
+      },
+      {
+        "fx": [
+          {
+            "fx": "distortion",
+            "params": {
+              "distort": "0.9",
+              "amp": "0.6"
+            }
+          }
+        ],
+        "params": {
+        },
+        "beats": [
+          [
+            1
+          ]
+        ],
+        "sample-params": {
+        },
+        "id": "qseyheogiomrcqohruljpokxxwlqcjfl",
+        "synth-params": {
+          "divisor": "1.5",
+          "depth": "5",
+          "note": "\\ index + 60",
+          "sustain": "0.25",
+          "decay": "0.1",
+          "release": "0.2",
+          "attack": "0.01"
+        },
+        "grid-type": "synth",
+        "type": "grid",
+        "grid-synth": "fm"
       }
     ]
   },
@@ -767,6 +800,217 @@
           ],
           [
             0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      }
+    ]
+  },
+  "qseyheogiomrcqohruljpokxxwlqcjfl": {
+    "name": "",
+    "id": "qseyheogiomrcqohruljpokxxwlqcjfl",
+    "bpc": "0.5",
+    "tracks": [
+      {
+        "type": "none",
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "params": {
+        },
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "beats": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
           ],
           [
             0
