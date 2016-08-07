@@ -1,0 +1,699 @@
+{
+  "root": {
+    "name": "root",
+    "id": "root",
+    "bpc": "1/2",
+    "tracks": [
+      {
+        "type": "grid",
+        "id": "hhokuovf",
+        "on": true,
+        "beats": [
+          [
+            0
+          ]
+        ],
+        "fx": [
+          {
+            "fx": "distortion",
+            "id": "qmzydyqj",
+            "params": {
+              "amp": "0.3"
+            }
+          }
+        ],
+        "synth-params": {
+        },
+        "sample-params": {
+        },
+        "grid-id": "onnfqfpt"
+      },
+      {
+        "type": "grid",
+        "id": "rzquloxu",
+        "on": true,
+        "beats": [
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ],
+        "synth-params": {
+        },
+        "sample-params": {
+        },
+        "grid-id": "fedbsrcq"
+      },
+      {
+        "fx": [
+          {
+            "fx": "flanger",
+            "id": "awqwrbjr",
+            "params": {
+            }
+          }
+        ],
+        "synth": "piano",
+        "beats": [
+          [
+            0
+          ]
+        ],
+        "sample-params": {
+        },
+        "id": "fkbzcppg",
+        "synth-params": {
+          "pitch": "\\ -1 - row_index",
+          "amp": "1.5"
+        },
+        "grid-id": "ietlilxh",
+        "grid-type": "synth",
+        "on": true,
+        "type": "grid"
+      },
+      {
+        "type": "grid",
+        "id": "eqhydxte",
+        "on": true,
+        "beats": [
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ],
+        "synth-params": {
+        },
+        "sample-params": {
+        },
+        "grid-id": "ihyhnuau"
+      }
+    ]
+  },
+  "onnfqfpt": {
+    "name": "beat",
+    "id": "onnfqfpt",
+    "bpc": "1/2",
+    "tracks": [
+      {
+        "type": "synth",
+        "id": "mefwmkhr",
+        "on": true,
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ],
+        "synth-params": {
+          "pitch": "-2",
+          "decay": "0",
+          "attack": "0.1",
+          "release": "0"
+        },
+        "synth": "pulse"
+      },
+      {
+        "type": "synth",
+        "id": "dotlmnts",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "fx": [
+
+        ],
+        "synth-params": {
+          "pitch": "-3",
+          "decay": "0",
+          "attack": "0.1",
+          "release": "0"
+        },
+        "synth": "pulse"
+      },
+      {
+        "type": "sample",
+        "id": "lbmuxwcl",
+        "on": true,
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ],
+        "sample-params": {
+          "amp": "10"
+        },
+        "sample": "bd_boom"
+      }
+    ]
+  },
+  "fedbsrcq": {
+    "name": "say it",
+    "id": "fedbsrcq",
+    "bpc": "1",
+    "tracks": [
+      {
+        "fx": [
+          {
+            "fx": "distortion",
+            "id": "caofncvy",
+            "params": {
+              "amp": "0.3",
+              "distort": "0.7"
+            }
+          }
+        ],
+        "synth": "fm",
+        "beats": [
+          [
+            1
+          ]
+        ],
+        "sample-params": {
+        },
+        "id": "ycvojqvm",
+        "synth-params": {
+          "pitch": "\\  -2 -row_index",
+          "amp": "3",
+          "release": "0.3"
+        },
+        "grid-id": "wxxfkjlq",
+        "grid-type": "synth",
+        "on": true,
+        "type": "grid"
+      }
+    ]
+  },
+  "wxxfkjlq": {
+    "name": "",
+    "id": "wxxfkjlq",
+    "bpc": "1/4",
+    "tracks": [
+      {
+        "type": "none",
+        "id": "tczkxrum",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "nejidahl",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "qqksubtq",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "dyftsnee",
+        "on": true,
+        "beats": [
+          [
+            2
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      }
+    ]
+  },
+  "ietlilxh": {
+    "name": "atmosphere",
+    "id": "ietlilxh",
+    "bpc": "1/2",
+    "tracks": [
+      {
+        "type": "none",
+        "id": "rngutjds",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "kajldbyw",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "exfiduhu",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "qmnltjfo",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "eibbkwgr",
+        "on": true,
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      }
+    ]
+  },
+  "ihyhnuau": {
+    "name": "overbeat",
+    "id": "ihyhnuau",
+    "bpc": "1/2",
+    "tracks": [
+      {
+        "type": "sample",
+        "id": "dzdwbpjn",
+        "on": true,
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ],
+        "sample-params": {
+          "amp": "0.7"
+        },
+        "sample": "perc_bell"
+      },
+      {
+        "type": "sample",
+        "id": "gmnfexmc",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ],
+        "sample-params": {
+        },
+        "sample": "elec_triangle"
+      },
+      {
+        "type": "sample",
+        "id": "kdirrwcn",
+        "on": true,
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ],
+        "sample-params": {
+        },
+        "sample": "drum_bass_hard"
+      }
+    ]
+  }
+}
