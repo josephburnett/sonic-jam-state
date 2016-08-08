@@ -1,0 +1,769 @@
+{
+  "root": {
+    "name": "root",
+    "id": "root",
+    "bpc": "1/2",
+    "tracks": [
+      {
+        "type": "grid",
+        "id": "vvqjbkkn",
+        "on": true,
+        "beats": [
+          [
+            1
+          ]
+        ],
+        "fx": [
+
+        ],
+        "synth-params": {
+        },
+        "sample-params": {
+        },
+        "grid-id": "hwolurox"
+      },
+      {
+        "type": "grid",
+        "id": "rhmavuoo",
+        "on": true,
+        "beats": [
+          [
+            1
+          ]
+        ],
+        "fx": [
+
+        ],
+        "synth-params": {
+        },
+        "sample-params": {
+        },
+        "grid-id": "aatzdzbl"
+      },
+      {
+        "fx": [
+          {
+            "fx": "slicer",
+            "id": "qvwuvrym",
+            "params": {
+              "phase": "0.5"
+            }
+          },
+          {
+            "fx": "reverb",
+            "id": "fcgqtuve",
+            "params": {
+              "amp": "2.0",
+              "room": "1.0"
+            }
+          }
+        ],
+        "synth": "pretty_bell",
+        "beats": [
+          [
+            0
+          ]
+        ],
+        "sample-params": {
+        },
+        "id": "byurwhvd",
+        "synth-params": {
+          "pitch": "\\ (12*3) - row_index",
+          "amp": "0.2"
+        },
+        "grid-id": "ynhcbxnv",
+        "grid-type": "synth",
+        "on": true,
+        "type": "grid"
+      },
+      {
+        "fx": [
+          {
+            "fx": "gverb",
+            "id": "jxgczrij",
+            "params": {
+              "amp": "0.5"
+            }
+          }
+        ],
+        "synth": "piano",
+        "beats": [
+          [
+            1
+          ]
+        ],
+        "sample-params": {
+        },
+        "id": "lvbhvqtb",
+        "synth-params": {
+          "pitch": "\\ -row_index"
+        },
+        "grid-id": "krkpiqcn",
+        "grid-type": "synth",
+        "on": true,
+        "type": "grid"
+      }
+    ]
+  },
+  "hwolurox": {
+    "name": "ambient guitars",
+    "id": "hwolurox",
+    "bpc": "1/2",
+    "tracks": [
+      {
+        "type": "sample",
+        "id": "reutnyac",
+        "on": true,
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ],
+        "sample-params": {
+        },
+        "sample": "guit_em9"
+      },
+      {
+        "type": "sample",
+        "id": "dvfsjjxt",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ],
+        "sample-params": {
+        },
+        "sample": "guit_e_fifths"
+      }
+    ]
+  },
+  "aatzdzbl": {
+    "name": "steady beat",
+    "id": "aatzdzbl",
+    "bpc": "1",
+    "tracks": [
+      {
+        "type": "sample",
+        "id": "kquyjbex",
+        "on": true,
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ],
+        "sample-params": {
+        },
+        "sample": "bd_zum"
+      }
+    ]
+  },
+  "ynhcbxnv": {
+    "name": "bells (45% cpu!)",
+    "id": "ynhcbxnv",
+    "bpc": "1/4",
+    "tracks": [
+      {
+        "type": "none",
+        "id": "ciutrqre",
+        "on": true,
+        "beats": [
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "nzcnkvde",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "mrhlelxq",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      }
+    ]
+  },
+  "krkpiqcn": {
+    "name": "rising piano",
+    "id": "krkpiqcn",
+    "bpc": "1/2",
+    "tracks": [
+      {
+        "type": "none",
+        "id": "twhzapfp",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            3
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            3
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "ghdvplzd",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "xjyltfxt",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            3
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "bmeyuafr",
+        "on": true,
+        "beats": [
+          [
+            3
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "hcfvrljz",
+        "on": true,
+        "beats": [
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      },
+      {
+        "type": "none",
+        "id": "kkgnfqdj",
+        "on": true,
+        "beats": [
+          [
+            3
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            3
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            3
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            3
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "fx": [
+
+        ]
+      }
+    ]
+  }
+}
